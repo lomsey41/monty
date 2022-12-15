@@ -115,6 +115,6 @@ All programs and functions were compiled with `gcc 4.8.4` using flags `-Wall -We
 ## Styling
 All files have been written in the Betty Style.
 
-## Authors
+## Authors;
 **Salome Bassey** - [Github](https://github.com/lomsey41) [uc.salome2@gmail.com]
 **Nzemeka Akponor** - [Github](https://github.com/Badpet03) [vakponor@gmail.com]
